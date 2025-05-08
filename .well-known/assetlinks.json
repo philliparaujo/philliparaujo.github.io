@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"], 
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.ratify",
+      "sha256_cert_fingerprints": [
+        "75:E6:9C:4C:23:8A:9C:25:E1:FC:5F:45:41:FD:B6:DA:A6:BF:0E:24:8B:98:9A:9D:B2:06:D9:5D:37:12:1A:E0"
+      ] 
+    }
+  }
+]
